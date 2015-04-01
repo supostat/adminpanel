@@ -1,4 +1,5 @@
-/developer
 /vendor
 /node_modules
 .env
+developer/vendors
+developer/node_modules
